@@ -1,0 +1,15 @@
+Encuesta #2
+Enunciado Pregunta 1: ¿Usted está conforme con los servicios brindados por ISSD?
+Respuesta Pregunta 1: 1
+Enunciado Pregunta 2: ¿Recomendaría nuestros servicios a alguien más?
+Respuestas Pregunta 2: 1
+Encuesta #3
+Enunciado Pregunta 1: ¿Usted está conforme con los servicios brindados por ISSD?
+Respuesta Pregunta 1: 1
+Enunciado Pregunta 2: ¿Recomendaría nuestros servicios a alguien más?
+Respuestas Pregunta 2: 0
+Encuesta #4
+Enunciado Pregunta 1: ¿Usted está conforme con los servicios brindados por ISSD?
+Respuesta Pregunta 1: 0
+Enunciado Pregunta 2: ¿Recomendaría nuestros servicios a alguien más?
+Respuestas Pregunta 2: 0
